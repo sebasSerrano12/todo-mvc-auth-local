@@ -1,3 +1,4 @@
+//All of these below are external modules we will be using for our app
 const express = require('express')
 const app = express()
 const mongoose = require('mongoose')

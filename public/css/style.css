@@ -1,9 +1,18 @@
+*{
+    text-align: center;
+
+}
 h1{
     color: red;
 }
 .completed{
     text-decoration: line-through;
-    color: gray;
+    color: rgb(99, 37, 37);
+}
+
+
+li{
+    list-style-type: none;
 }
 .not{
     text-decoration: underline;
